@@ -1450,9 +1450,6 @@ a {
 .cid-srTNQ8e7NI img,
 .cid-srTNQ8e7NI .item-img {
   width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
 }
 .cid-srTNQ8e7NI .item:focus,
 .cid-srTNQ8e7NI span:focus {
@@ -4373,9 +4370,6 @@ a {
 .cid-srZDNHsF0c img,
 .cid-srZDNHsF0c .item-img {
   width: 100%;
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
 }
 .cid-srZDNHsF0c .item:focus,
 .cid-srZDNHsF0c span:focus {
